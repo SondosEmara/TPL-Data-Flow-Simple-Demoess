@@ -10,6 +10,8 @@ This project demonstrates the use of the Task Parallel Library (TPL) Data Flow i
 - **TransformBlock**: Processes input data and produces output data.
 - **BufferBlock**: Buffers data for further processing.
 - **ActionBlock**: Performs an action on each piece of data received.
+- **BroadCastBlock**: Buffers To All Consumers. (Broad Cast Message to all Target Blocks ).
+- **TransformManyBlock**: return IEnumerable Toutput
 
 ## Getting Started
 
@@ -22,5 +24,11 @@ This project demonstrates the use of the Task Parallel Library (TPL) Data Flow i
 1. Clone the repository:
    ```bash
    git clone https://github.com/SondosEmara/TPL-Data-Flow.git
+   
+2. Navigate to the project directory:
+   ```bash
+   cd TPL-Data-Flow
+
+
 
 
