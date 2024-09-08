@@ -1,0 +1,15 @@
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\bin\Release\net8.0\TPL.DataFlow.exe
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\bin\Release\net8.0\TPL.DataFlow.deps.json
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\bin\Release\net8.0\TPL.DataFlow.runtimeconfig.json
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\bin\Release\net8.0\TPL.DataFlow.dll
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\bin\Release\net8.0\TPL.DataFlow.pdb
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\obj\Release\net8.0\TPL.DataFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\obj\Release\net8.0\TPL.DataFlow.AssemblyInfoInputs.cache
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\obj\Release\net8.0\TPL.DataFlow.AssemblyInfo.cs
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\obj\Release\net8.0\TPL.DataFlow.csproj.CoreCompileInputs.cache
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\obj\Release\net8.0\TPL.DataFlow.dll
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\obj\Release\net8.0\refint\TPL.DataFlow.dll
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\obj\Release\net8.0\TPL.DataFlow.pdb
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\obj\Release\net8.0\TPL.DataFlow.genruntimeconfig.cache
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\obj\Release\net8.0\ref\TPL.DataFlow.dll
+D:\Sondos-Matrial\Tasks\Code\TPL.DataFlow\TPL.DataFlow\obj\Release\net8.0\TPL.DataFlow.sourcelink.json
