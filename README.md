@@ -12,6 +12,9 @@ This project demonstrates the use of the Task Parallel Library (TPL) Data Flow i
 - **ActionBlock**: Performs an action on each piece of data received.
 - **BroadCastBlock**: Buffers To All Consumers. (Broad Cast Message to all Target Blocks ).
 - **TransformManyBlock**: return IEnumerable Toutput
+- **Filter**: Filter which soucre Blcok send data to which targetBlock..
+- **Demo For Tradinional Way Before TPL**
+- **Demo For Tpl Parallel with different Ways (Async Programming/Sync Programming)**
 
 ## Getting Started
 
